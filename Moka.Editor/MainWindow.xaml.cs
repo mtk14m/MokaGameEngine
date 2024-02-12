@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Moka.Editor.GameProject;
 
 namespace Moka.Editor
 {
@@ -19,6 +20,30 @@ namespace Moka.Editor
         public MainWindow()
         {
             InitializeComponent();
+
+            Loaded += OnMainWindowLoaded;
+        }
+
+        private void OnMainWindowLoaded(object sender, RoutedEventArgs e)
+        {
+            this.Loaded -= OnMainWindowLoaded;
+            OpenProjectBrowserDialog();
+
+            //throw new NotImplementedException();
+        }
+        private void OpenProjectBrowserDialog()
+        {
+            var projectBrowser = new ProjectBrowserDialog();
+            if (projectBrowser.ShowDialog() == false)
+            {
+                Application.Current.Shutdown();
+            }
+            else
+            {
+                //open project
+            }
         }
     }
+
+
 }

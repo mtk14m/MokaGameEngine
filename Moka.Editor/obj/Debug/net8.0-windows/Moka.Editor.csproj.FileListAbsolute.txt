@@ -18,3 +18,14 @@ C:\dev\cpp\Moka\Moka.Editor\obj\Debug\net8.0-windows\refint\Moka.Editor.dll
 C:\dev\cpp\Moka\Moka.Editor\obj\Debug\net8.0-windows\Moka.Editor.pdb
 C:\dev\cpp\Moka\Moka.Editor\obj\Debug\net8.0-windows\Moka.Editor.genruntimeconfig.cache
 C:\dev\cpp\Moka\Moka.Editor\obj\Debug\net8.0-windows\ref\Moka.Editor.dll
+C:\dev\cpp\Moka\x64\Debug\Debug\net8.0-windows\Moka.Editor.exe
+C:\dev\cpp\Moka\x64\Debug\Debug\net8.0-windows\Moka.Editor.deps.json
+C:\dev\cpp\Moka\x64\Debug\Debug\net8.0-windows\Moka.Editor.runtimeconfig.json
+C:\dev\cpp\Moka\x64\Debug\Debug\net8.0-windows\Moka.Editor.dll
+C:\dev\cpp\Moka\x64\Debug\Debug\net8.0-windows\Moka.Editor.pdb
+C:\dev\cpp\Moka\Moka.Editor\obj\Debug\net8.0-windows\Moka.Editor.sourcelink.json
+C:\dev\cpp\Moka\x64\Debug\net8.0-windows\Moka.Editor.exe
+C:\dev\cpp\Moka\x64\Debug\net8.0-windows\Moka.Editor.deps.json
+C:\dev\cpp\Moka\x64\Debug\net8.0-windows\Moka.Editor.runtimeconfig.json
+C:\dev\cpp\Moka\x64\Debug\net8.0-windows\Moka.Editor.dll
+C:\dev\cpp\Moka\x64\Debug\net8.0-windows\Moka.Editor.pdb
